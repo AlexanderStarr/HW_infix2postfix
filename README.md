@@ -1,6 +1,6 @@
 Homework assignment for computer science class.
 Assignment is to take an infix expression, convert it to postfix notation, then evaluate it.
-Required implementing a stack data structure.
+Requires implementing a stack data structure.
 
 Written by Alexander Starr unless otherwise noted in file.
 
